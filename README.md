@@ -1,5 +1,6 @@
-## Hey 👋, I'm José Brusa!
-
+<div align="center">
+# Hey 👋, I'm José Brusa!
+</div>
 ### Desarrollador web frontend
   
 <br/>
