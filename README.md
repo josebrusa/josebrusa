@@ -1,8 +1,11 @@
 <div align="center">
-<h1>Hey 👋, I'm José Brusa!</h1>
+  <h1>Hey 👋, I'm José Brusa!</h1>
 </div>
-### Desarrollador web frontend
-  
+
+<br/>
+<div align="center">
+  <h3>Desarrollador web frontend</h3>
+<div> 
 <br/>
 <a href="https://github.com/josebrusa" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
