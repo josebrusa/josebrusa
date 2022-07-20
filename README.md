@@ -1,5 +1,5 @@
 <div align="center">
-# Hey 👋, I'm José Brusa!
+<h1>Hey 👋, I'm José Brusa!</h1>
 </div>
 ### Desarrollador web frontend
   
