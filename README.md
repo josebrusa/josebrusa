@@ -61,7 +61,7 @@ Pregúntame, ¡Estoy para ayudarte!
 </td><td valign="top" width="50%">
 
 <div align="center">
-  <img href="https://thumbs.gfycat.com/BestMeagerHoki-mobile.mp4"></img>
+  <img src="https://thumbs.gfycat.com/BestMeagerHoki-mobile.mp4"></img>
 </div>  
 
 
