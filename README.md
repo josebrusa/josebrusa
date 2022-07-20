@@ -1,4 +1,6 @@
-## Hey 👋, I'm José Brusa!  
+## Hey 👋, I'm José Brusa!
+<br>
+### Desarrollador web frontend.
   
 
 <a href="https://github.com/josebrusa" target="_blank">
@@ -15,7 +17,6 @@
 
 
 ### Glad to see you here!  
-Desarrollador web frontend.
 
 Me presento brevemente... Me dedico a la creación y desarrollo de páginas web desde hace 1 año.
 ¿Mi pasión? siempre ha sido todo lo que envuelve a la tecnologia, ademas de la musica. 
