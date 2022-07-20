@@ -15,7 +15,7 @@
 
 
 ### Glad to see you here!  
-Hola!👋 Soy Jose, desarrollador web.
+Desarrollador web frontend.
 
 Me presento brevemente... Me dedico a la creación y desarrollo de páginas web desde hace 1 año.
 ¿Mi pasión? siempre ha sido todo lo que envuelve a la tecnologia, ademas de la musica. 
