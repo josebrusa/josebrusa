@@ -18,9 +18,9 @@
 </a>  
 
 
-### Glad to see you here!  
+### Me presento brevemente!  
 
-Me presento brevemente... Me dedico a la creación y desarrollo de páginas web desde hace 1 año.
+ Me dedico a la creación y desarrollo de páginas web desde hace 1 año.
 ¿Mi pasión? siempre ha sido todo lo que envuelve a la tecnologia, ademas de la musica. 
 Desde la informatica, me dedico a ayudar exclusivamente a personas y negocios a crear su presencia digital.
 
