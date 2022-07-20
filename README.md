@@ -5,8 +5,8 @@
 <br/>
 <div align="center">
   <h3>Desarrollador web frontend</h3>
-<div> 
-<br/>
+</div> 
+
 <a href="https://github.com/josebrusa" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -16,8 +16,6 @@
 <a href="https://linkedin.com/in/josebrusa" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-  
-
 
 
 ### Glad to see you here!  
