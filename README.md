@@ -61,7 +61,8 @@ Pregúntame, ¡Estoy para ayudarte!
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="[https://rishavanand.github.io/static/images/greetings.gif](https://gfycat.com/bestmeagerhoki)" align="center" style="width: 100%" />
+  <div style='position:relative; padding-bottom:calc(45.48% + 44px)'><iframe src='https://gfycat.com/ifr/BestMeagerHoki' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/bestmeagerhoki">via Gfycat</a></p>
+
 </div>  
 
 
