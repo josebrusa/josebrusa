@@ -18,26 +18,23 @@
 </a>  
 
 
-### Me presento brevemente!  
+### Let me introduce myself briefly!
 
- Me dedico a la creación y desarrollo de páginas web desde hace 1 año.
-¿Mi pasión? siempre ha sido todo lo que envuelve a la tecnologia, ademas de la musica. 
-Desde la informatica, me dedico a ayudar exclusivamente a personas y negocios a crear su presencia digital.
+I've been creating and developing websites for 1 year now. My passion? has always been everything related to technology, besides music. From computer science, I dedicate myself exclusively to helping people and businesses to create their digital presence.
 
-¿Por qué deberías contar conmigo?
+Why should you count on me?
 
-💻 Creo páginas web corporativas o personales, landing pages, e-commerce... es decir, puedo desarrollar cualquier tipo de proyecto.
-Puedo ayudarte con un diseño 100% personalizado.
+💻 I create corporate or personal websites, landing pages, e-commerce... that is, I can develop any kind of project. I can help you with a 100% custom design.
 
-💻 Desarrollo web desde cero con JavaScript, Html5, Css3, Sass, React.js... Tengo experiencia con diferentes lenguajes de programación.
+💻 Web development from scratch with JavaScript, Html5, Css3, Sass, React.js... I have experience with different programming languages.
 
-🖌️ Creación y diseño web con AdobeXD y Figma.
+🖌️ Web creation and design with AdobeXD and Figma.
 
-🎨 Diseño gráfico, branding, creación de contenido para redes sociales... y más! Trabajo con Illustrator, Indesign y Photoshop.
+🎨 Graphic design, branding, content creation for social networks... and more! I work with Illustrator, Indesign, and Photoshop.
 
-📱 Desarrollo App Webs responsivas.
+📱 Responsive Web App development.
 
-Pregúntame, ¡Estoy para ayudarte!  
+Ask me, I'm here to help you!  
   
 
 <br/>  
