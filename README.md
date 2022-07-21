@@ -4,7 +4,7 @@
 
 <br/>
 <div align="center">
-  <h3>Desarrollador web frontend</h3>
+  <h3>Front End Web Developer</h3>
 </div> 
 
 <a href="https://github.com/josebrusa" target="_blank">
