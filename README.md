@@ -44,9 +44,13 @@ Ask me, I'm here to help you!
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on My Web
+  
 - 🌱 I’m currently learning Reactjs and Nodejs
+  
 - ❓ Ask me about anything related to the MERN stack and related technologies
+  
 - ⚡ Fun fact: I like to be updated at all times in the languages I study
+  
 
 
 
