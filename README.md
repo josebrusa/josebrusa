@@ -54,10 +54,10 @@ Ask me, I'm here to help you!
 
 
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="50%" style="background-color: #000" >
 
 <div align="center">
-  <img style="background-color: #000" src="./react-2.gif"></img>
+  <img src="./react-2.gif"></img>
 </div>  
 
 
