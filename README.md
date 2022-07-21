@@ -57,7 +57,7 @@ Ask me, I'm here to help you!
 </td><td valign="top" width="50%">
 
 <div align="center">
-  <img src="./react-2.gif"></img>
+  <img width="50%" src="./react-2.gif"></img>
 </div>  
 
 
