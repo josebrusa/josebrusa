@@ -54,7 +54,7 @@ Ask me, I'm here to help you!
 
 
 
-</td><td valign="top" width="50%" style="background: #000" >
+</td><td valign="top" width="50%" >
 
 <div align="center">
   <img src="./react-2.gif"></img>
