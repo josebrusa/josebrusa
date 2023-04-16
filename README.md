@@ -77,7 +77,7 @@ Ask me, I'm here to help you!
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="100" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="100" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="100" />  
-<img style="margin: 10px" src="https://drive.google.com/file/d/1YNiJDzF_jt4bNsq61jhvpxDEvkRkKJs3/view?usp=sharing" alt="Sass" height="100" />  
+<img style="margin: 10px" src="https://firebasestorage.googleapis.com/v0/b/deploysproyects.appspot.com/o/react-native-1.svg?alt=media&token=76984093-a9b0-42e2-ac61-617ef1cff42d" alt="react-native" height="100" />  
 </div>  
 
 <br/>  
