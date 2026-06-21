@@ -1,103 +1,66 @@
 <div align="center">
-  <h1>Hey 👋, I'm José Brusa!</h1>
+
+# Hey 👋, I'm José Brusa
+
+### Front-End Web Developer
+
+[![GitHub](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/josebrusa)
+[![Twitter](https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Brusa_jose)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/josebrusa)
+
 </div>
 
-<br/>
-<div align="center">
-  <h3>Front End Web Developer</h3>
-</div> 
+---
 
-<a href="https://github.com/josebrusa" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/@Brusa_jose" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/josebrusa" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+### 🚀 About Me
 
+I build websites and digital products with a strong focus on clean code and custom design. My background in technology — paired with a passion for design and music — drives how I approach every project: practical, detail-oriented, and always learning.
 
-### Let me introduce myself briefly!
+I help individuals and businesses build their digital presence, from a single landing page to a full e-commerce platform.
 
-I've been creating and developing websites for 1 year now. My passion? has always been everything related to technology, besides music. From computer science, I dedicate myself exclusively to helping people and businesses to create their digital presence.
+**What I can do for you:**
 
-Why should you count on me?
+- 💻 **Web Development** — corporate sites, landing pages, e-commerce, and fully custom web apps built from scratch with JavaScript, HTML5, CSS3, Sass, and React.
+- 📱 **Responsive Design** — interfaces that work seamlessly across desktop, tablet, and mobile.
+- 🖌️ **UI/UX Design** — wireframes and prototypes in Figma and Adobe XD.
+- 🎨 **Graphic Design & Branding** — visual identity and content creation using Illustrator, InDesign, and Photoshop.
 
-💻 I create corporate or personal websites, landing pages, e-commerce... that is, I can develop any kind of project. I can help you with a 100% custom design.
+📩 Got a project in mind? Reach out — I'm always happy to help!
 
-💻 Web development from scratch with JavaScript, Html5, Css3, Sass, React.js... I have experience with different programming languages.
+---
 
-🖌️ Web creation and design with AdobeXD and Figma.
+### ⚡ Currently
 
-🎨 Graphic design, branding, content creation for social networks... and more! I work with Illustrator, Indesign, and Photoshop.
+- 🔭 Working on **my personal portfolio website**
+- 🌱 Learning **React.js**, **Node.js**, and the broader **MERN stack**
+- 💬 Ask me about anything related to **JavaScript**, **React**, or the **MERN stack**
+- 🧠 Fun fact: I'm constantly chasing the latest updates in the languages and tools I work with
 
-📱 Responsive Web App development.
+---
 
-Ask me, I'm here to help you!  
-  
-
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🔭 I’m currently working on My Web
-  
-- 🌱 I’m currently learning Reactjs and Nodejs
-  
-- ❓ Ask me about anything related to the MERN stack and related technologies
-  
-- ⚡ Fun fact: I like to be updated at all times in the languages I study
-  
-
-
-
-</td><td valign="top" width="50%" >
+### 🛠️ Languages & Tools
 
 <div align="center">
-  <img src="./react-2.gif"></img>
-</div>  
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,webpack,figma,xd,ai,ps&theme=dark" />
+</div>
 
+---
 
-</td></tr></table>  
+### 📊 GitHub Stats
 
-<br/>  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=josebrusa&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josebrusa&hide_border=true&layout=compact&theme=tokyonight" width="48%" />
+</div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=josebrusa&hide_border=true&theme=tokyonight" width="65%" />
+</div>
 
-## My Favourite Languges and tools  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="100" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="100" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="100" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="100" />  
-<img style="margin: 10px" src="https://firebasestorage.googleapis.com/v0/b/deploysproyects.appspot.com/o/react-native-1.svg?alt=media&token=76984093-a9b0-42e2-ac61-617ef1cff42d" alt="react-native" height="100" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="100" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="100" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="100" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="100" />  
+---
 
+<div align="center">
 
+📫 **Let's connect:** [GitHub](https://github.com/josebrusa) · [LinkedIn](https://linkedin.com/in/josebrusa) · [Twitter](https://twitter.com/Brusa_jose)
 
-</div>  
-
-<br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=josebrusa&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josebrusa&hide_border=true&layout=compact" align="right" style="width: 100%" /></div>
-
-</td></tr></table>   
-
-
-<br />
-
-----
-<div align="center">brusa jose frontend developer</div>
+</div>
