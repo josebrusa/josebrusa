@@ -1,66 +1,148 @@
 <div align="center">
 
-# Hey 👋, I'm José Brusa
+# 👋 Hi, I'm José Brusa
 
-### Front-End Web Developer
+### Full Stack Developer | MERN Stack | React Native
 
-[![GitHub](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/josebrusa)
-[![Twitter](https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Brusa_jose)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/josebrusa)
+Building scalable web and mobile applications with a product-oriented mindset.
+
+<p>
+<a href="https://github.com/josebrusa">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/josebrusa">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:josebrusa@outlook.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
+
+📍 Manresa, Barcelona, Spain
 
 </div>
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-I build websites and digital products with a strong focus on clean code and custom design. My background in technology — paired with a passion for design and music — drives how I approach every project: practical, detail-oriented, and always learning.
+I'm a Full Stack Developer with 5+ years of experience building web and mobile applications.
 
-I help individuals and businesses build their digital presence, from a single landing page to a full e-commerce platform.
+My expertise focuses on JavaScript ecosystems, particularly React, React Native, Node.js, Express, and MongoDB. I enjoy designing scalable architectures, building APIs, creating intuitive user experiences, and transforming ideas into production-ready products.
 
-**What I can do for you:**
+I have worked on SaaS platforms, mobile applications, admin dashboards, transactional systems, and AI-driven products.
 
-- 💻 **Web Development** — corporate sites, landing pages, e-commerce, and fully custom web apps built from scratch with JavaScript, HTML5, CSS3, Sass, and React.
-- 📱 **Responsive Design** — interfaces that work seamlessly across desktop, tablet, and mobile.
-- 🖌️ **UI/UX Design** — wireframes and prototypes in Figma and Adobe XD.
-- 🎨 **Graphic Design & Branding** — visual identity and content creation using Illustrator, InDesign, and Photoshop.
+### What I bring
 
-📩 Got a project in mind? Reach out — I'm always happy to help!
-
----
-
-### ⚡ Currently
-
-- 🔭 Working on **my personal portfolio website**
-- 🌱 Learning **React.js**, **Node.js**, and the broader **MERN stack**
-- 💬 Ask me about anything related to **JavaScript**, **React**, or the **MERN stack**
-- 🧠 Fun fact: I'm constantly chasing the latest updates in the languages and tools I work with
+* 📱 Cross-platform mobile development with React Native
+* ⚛️ Modern frontend development with React and TypeScript
+* 🚀 Backend development with Node.js, Express, and REST APIs
+* 🗄️ Database design with MongoDB, PostgreSQL, and MySQL
+* ☁️ CI/CD workflows, Docker, and cloud deployments
+* 🤖 AI-assisted development and automation workflows
+* 🏗️ Product architecture and technical decision-making
+* 🔍 Code reviews, best practices, and software quality
 
 ---
 
-### 🛠️ Languages & Tools
+## 💼 Current Focus
+
+* Building SaaS and AI-powered products
+* React & React Native development
+* Backend architecture with Node.js
+* Cloud-native applications
+* Software scalability and performance
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind,vite,redux" />
+</p>
+
+### Mobile
+
+<p>
+<img src="https://skillicons.dev/icons?i=react" />
+</p>
+
+* React Native
+* Firebase
+* Android & iOS Development
+* Push Notifications
+* Mobile Architecture
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql" />
+</p>
+
+### DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,firebase,figma,vscode" />
+</p>
+
+---
+
+## 📈 Experience Highlights
+
+### Full Stack Developer
+
+* Designed and developed scalable web applications
+* Built RESTful APIs and backend services
+* Developed SaaS products and administrative dashboards
+* Implemented authentication and authorization systems
+* Improved performance and maintainability across projects
+
+### React Native Developer
+
+* Developed Android and iOS applications
+* Integrated Firebase services and real-time messaging
+* Implemented notifications, payments, and media handling
+* Published and maintained production mobile applications
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced System Design
+* AI Agents & LLM Integrations
+* Cloud Infrastructure
+* Software Architecture Patterns
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,webpack,figma,xd,ai,ps&theme=dark" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=josebrusa&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josebrusa&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=josebrusa&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 ---
 
-### 📊 GitHub Stats
+## 🤝 Let's Connect
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=josebrusa&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josebrusa&hide_border=true&layout=compact&theme=tokyonight" width="48%" />
-</div>
+💼 LinkedIn: https://linkedin.com/in/josebrusa
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=josebrusa&hide_border=true&theme=tokyonight" width="65%" />
-</div>
+💻 GitHub: https://github.com/josebrusa
+
+📧 Email: [josebrusa@outlook.com](mailto:josebrusa@outlook.com)
 
 ---
 
-<div align="center">
-
-📫 **Let's connect:** [GitHub](https://github.com/josebrusa) · [LinkedIn](https://linkedin.com/in/josebrusa) · [Twitter](https://twitter.com/Brusa_jose)
-
-</div>
+> "Great software is built through continuous learning, collaboration, and attention to detail."
